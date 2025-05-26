@@ -1,5 +1,5 @@
 # ediop3Wyrm
-A ddos which uses alot of user agents. This one is powerful (try it urself)
+A DoS tool. (Uses multiple user agents to try and simulate a Botnet / ddos traffic)
 
 btw the Impact Is hidden (or am I using it wrong)
 
